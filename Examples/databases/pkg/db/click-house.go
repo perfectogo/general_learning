@@ -2,11 +2,10 @@ package db
 
 import (
 	"database/sql"
-	"examples/databases/config"
 	"fmt"
 )
 
-func GetClickHouseConnection(config *config.Config) (*sql.DB, error) {
+func GetClickHouseConnection(config *.Config) (*sql.DB, error) {
 
 	connectionString := fmt.Sprintf("tcp://%s:%d?username=%s&password=%s&database=%s",
 		config.ClickHouseConfig.Host,
