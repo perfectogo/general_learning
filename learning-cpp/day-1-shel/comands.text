@@ -1,4 +1,0 @@
-grep <word>
-
-cat file.name | grep golang 
-
