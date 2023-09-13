@@ -1,0 +1,5 @@
+SELECT 
+    name AS 'user name',
+    imdb_rating AS "IMDb"
+FROM 
+    movies;

@@ -1,0 +1,15 @@
+SELECT 
+    * 
+FROM 
+    movies
+WHERE 
+    name LIKE '%man%';
+
+
+-- Edit the query so that it selects all the information about the movie titles that begin with the word ‘The’.
+SELECT 
+    * 
+FROM 
+    movies
+WHERE 
+    name LIKE 'The %';
