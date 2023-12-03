@@ -6,7 +6,6 @@ ls -R
 #!
 gzip files.tar 
 
-
 #!
 zip filename.zim -r dir_name
 zip riddles.zip -r riddles

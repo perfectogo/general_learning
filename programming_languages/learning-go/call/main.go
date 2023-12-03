@@ -1,12 +1,14 @@
 package main
 
 import (
-	chapter03compositetypes "github.com/perfectogo/general_learning/learning-go/chapter-03_composite-types"
-	chapter04blocks "github.com/perfectogo/general_learning/learning-go/chapter-04_blocks"
+	httpnet "github.com/perfectogo/general_learning/learning-go/chapter-11_the-standard-library/httpNet"
 )
 
 func main() {
 	//chapter02builtintypes.Main()
-	chapter03compositetypes.Main()
-	chapter04blocks.Main()
+	// chapter03compositetypes.Main()
+	// chapter04blocks.Main()
+	//encodingjson.CustomParsing()
+	//httpnet.Go()
+	httpnet.Client()
 }

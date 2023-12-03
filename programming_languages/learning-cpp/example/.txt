@@ -1,0 +1,3 @@
+cpp () {
+    g++ $1 -o app && ./app && rm app
+}
