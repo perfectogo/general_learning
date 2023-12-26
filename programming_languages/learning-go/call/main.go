@@ -10,5 +10,5 @@ func main() {
 	// chapter04blocks.Main()
 	//encodingjson.CustomParsing()
 	//httpnet.Go()
-	httpnet.Client()
+	httpnet.Run()
 }
