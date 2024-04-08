@@ -1,0 +1,15 @@
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/bin/Debug/net8.0/app
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/bin/Debug/net8.0/app.deps.json
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/bin/Debug/net8.0/app.runtimeconfig.json
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/bin/Debug/net8.0/app.dll
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/bin/Debug/net8.0/app.pdb
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/obj/Debug/net8.0/app.sourcelink.json
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/obj/Debug/net8.0/app.dll
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/obj/Debug/net8.0/refint/app.dll
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/obj/Debug/net8.0/app.pdb
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/Users/home/Documents/github/perfectogo/general_learning/programming_languages/learning-c#/app/obj/Debug/net8.0/ref/app.dll
