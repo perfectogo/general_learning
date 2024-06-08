@@ -1,0 +1,7 @@
+ORG 100H
+    MOV AL, 255
+    MOV BL, 1
+    ADD AL, BL 
+RET
+
+END
